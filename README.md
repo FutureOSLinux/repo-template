@@ -1,2 +1,2 @@
 # repo-template
-Future OS Repository Template - [pkgs.futurelinux.org](https://pkgs.futurelinux.org){:target="_blank"}
+Future OS Repository Template - [pkgs.futurelinux.org](https://pkgs.futurelinux.org)
