@@ -14,7 +14,7 @@
 
             HeaderName        "/html/header.html"
             ReadmeName        "/html/footer.html"
-            IndexStyleSheet   "/css/table-darkmode.css"
+            IndexStyleSheet   "/css/table.css"
 
             DefaultIcon       "/icons/unknown.svg"
 
