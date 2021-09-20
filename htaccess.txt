@@ -4,7 +4,7 @@
     Alias                     /icons {DOCUMENT_ROOT}/icons
 
     <Directory {DOCUMENT_ROOT}>
-        Options 	          +Indexes
+        Options               +Indexes
 
         <IfModule mod_autoindex.c>
             IndexOptions      +AddAltClass +Charset=UTF-8 +FancyIndexing +FoldersFirst +HTMLTable
