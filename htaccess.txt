@@ -1,12 +1,10 @@
 ...
-    Alias                       /css {DOCUMENT_ROOT}/css
-    Alias                       /html {DOCUMENT_ROOT}/html
-    Alias                       /icons {DOCUMENT_ROOT}/icons
+    Alias                     /css {DOCUMENT_ROOT}/css
+    Alias                     /html {DOCUMENT_ROOT}/html
+    Alias                     /icons {DOCUMENT_ROOT}/icons
 
     <Directory {DOCUMENT_ROOT}>
-        AllowOverride           all
-        Require                 all granted
-        Options 	        +Indexes
+        Options 	          +Indexes
 
         <IfModule mod_autoindex.c>
             IndexOptions      +AddAltClass +Charset=UTF-8 +FancyIndexing +FoldersFirst +HTMLTable
