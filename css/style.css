@@ -1,20 +1,5 @@
 @import 'common.css';
 
-body {
-  background-color: #212121;
-  border-top: 0.5rem solid #424242;
-  border-bottom: 0.5rem solid #424242;
-  color: #eeeeee;
-}
-
-table tr:hover {
-  background-color: #424242;
-}
-
-a {
-  color: #82b1ff;
-}
-
 .link {
     width: 100%;
     margin-top: 100px;
